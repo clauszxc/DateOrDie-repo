@@ -1,0 +1,14 @@
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\DateOrDie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\DateOrDie.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\DateOrDie.AssemblyInfo.cs
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\DateOrDie.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\DateOrDie\bin\Debug\net8.0\DateOrDie.exe
+C:\Users\brand\source\repos\DateOrDie\bin\Debug\net8.0\DateOrDie.deps.json
+C:\Users\brand\source\repos\DateOrDie\bin\Debug\net8.0\DateOrDie.runtimeconfig.json
+C:\Users\brand\source\repos\DateOrDie\bin\Debug\net8.0\DateOrDie.dll
+C:\Users\brand\source\repos\DateOrDie\bin\Debug\net8.0\DateOrDie.pdb
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\DateOrDie.dll
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\refint\DateOrDie.dll
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\DateOrDie.pdb
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\DateOrDie.genruntimeconfig.cache
+C:\Users\brand\source\repos\DateOrDie\obj\Debug\net8.0\ref\DateOrDie.dll
